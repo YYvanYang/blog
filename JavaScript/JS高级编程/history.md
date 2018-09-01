@@ -78,13 +78,15 @@ It was then that the World Wide Web Consortium (W3C), the body charged with crea
 
 ## 总结
 ECMAScript, which is defined in ECMA-262 and provides the core functionality
+
 ECMAScript，在ECMA-262中定义并提供核心功能
-The Document Object Model (DOM), which provides methods and interfaces for working
-with the content of a web page
+
+The Document Object Model (DOM), which provides methods and interfaces for working with the content of a web page
 
 文档对象模型（DOM），它提供了处理网页内容的方法和接口
-The Browser Object Model (BOM), which provides methods and interfaces for interacting
-with the browser
+
+The Browser Object Model (BOM), which provides methods and interfaces for interacting with the browser
+
 浏览器对象模型（BOM），提供与浏览器交互的方法和接口
 
 ## 词汇
